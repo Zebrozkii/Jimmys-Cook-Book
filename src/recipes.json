@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name":"Stuffed Peppers",
+      "ingrediants": "Ground-Beef/Turkey,Rice,Cheese,Peppers,Onions",
+      "estimated-time": "20min",
+      "instructions":["1. Preheat oven to bake at 450", "2. Start rice in rice cooker or pot, instructions should be on package", "3. Cut the peppers either by cutting off the tops or cutting them down the sides. Remove any seeds."," 4. Put a little oil in a pan and put your ground meat in it. Salt and pepper if you wish. Make sure meat is cooked dont be stupid figure it out.","5. Now we just wait for everything.", "6. The next thing is layering ingrediants in the pepper I prefer rice,cheese,meat,rice,cheese. Your essentially making a sandwich in the pepper.","7. Bake for 25 or until pepper has a good crunch to it, in reality you can cook it to whatever level you like its a pepper under cooked isnt gonna kill you. And your done.","Extra. A little extra is roasting some onions in the pan before you ad the meat, gets the juices going, and mix those in with the rice."]
+    },
+    {
+      "id": 2,
+      "ingrediants": "Murphy",
+      "estimated-time": "Derek",
+      "instructions":""
+
+    }
+]
